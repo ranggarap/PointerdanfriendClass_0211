@@ -13,10 +13,12 @@ int main ()
  c= &y;
  cout << "Alamat memori :" << c<< endl;
  cout << "Nilai dari C :" << *c<< endl;
+
  //reference
  int &d =b;  
 cout << "nilai" << d << endl;
 cout  << "reference" << &d << endl;
 
-
+int f = 5;
+int g = f;
 }
