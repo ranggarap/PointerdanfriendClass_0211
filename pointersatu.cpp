@@ -11,3 +11,8 @@ public :
     }
 
 };
+int main()
+{
+
+    mahasiswa mhs;//object mhs
+}
